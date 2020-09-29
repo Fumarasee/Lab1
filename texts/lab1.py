@@ -48,4 +48,3 @@ plt.scatter(class0[:,0], class0[:,2], marker=".", alpha=0.7)
 plt.scatter(class1[:,0], class1[:,2], marker=".", alpha=0.7)
 plt.savefig('scatter_'+str(i+1)+'.png')
 plt.show()
-
